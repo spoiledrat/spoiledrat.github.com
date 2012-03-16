@@ -12,11 +12,13 @@
 9. Enjoy!
 
 ## Definitions:
-* git status : voir les status des fichiers
-* git diff: voir tes modifs en cours
-* git add: ajouter un fichier pour construire un commit (ajouter des lettres dans l'enveloppe)
-* git commit -m"bla": fermer l'enveloppe
-* git push: envoyer l'enveloppe sur github (ou autre)
+* git status : voir les status des fichiers (read)
+* git diff: voir tes modifs en cours (read)
+* git add: ajouter un fichier pour construire un commit (ajouter des lettres dans l'enveloppe) (write)
+* git commit -m"bla": fermer l'enveloppe (write)
+* git push: envoyer l'enveloppe sur github (ou autre) (write)
+* git show: voir le contenu dernier commit (read)
+* git log: voir la liste des commits (read)
 
 ## A faire:
 * telecharger iterm2 (ca remplace terminal)
