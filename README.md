@@ -1,9 +1,6 @@
 # Commandes git sympa:
 
-iterm2
-
 ## Process pour un commit
-
 1. aller dans ton repository local (exemple: Projects/spoliedrat.github.com)
 2. Faire des modifications, creer des fichiers etc...
 3. ouvrir le terminal et aller dans le repository
@@ -14,7 +11,12 @@ iterm2
 8. faire "git push" pour pusher sur github
 9. Enjoy!
 
-Un autre sous titre
--------------
+## Definitions:
+* git status : voir les status des fichiers
+* git diff: voir tes modifs en cours
+* git add: ajouter un fichier pour construire un commit (ajouter des lettres dans l'enveloppe)
+* git commit -m"bla": fermer l'enveloppe
+* git push: envoyer l'enveloppe sur github (ou autre)
 
-hello
+## A faire:
+* telecharger iterm2 (ca remplace terminal)
