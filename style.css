@@ -16,7 +16,7 @@ style.css
 
    h2
    {
-   	color: #1E90FF;	
+   	color: black;	
    	font-size:18px;
    	font-family:"MS Trebuchet",arial, sans-serif;
    	font-weight:bold;
@@ -26,7 +26,7 @@ style.css
 
    h3 
    {
-   	color: #99cc00;
+   	color: black;
    	font-size:16px;
    	font-family:"MS Trebuchet",arial, sans-serif;
    	font-weight:bold;
